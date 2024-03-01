@@ -10,22 +10,24 @@
         android:id="@+id/imageView4"
         android:layout_width="176dp"
         android:layout_height="165dp"
-        android:layout_marginStart="30dp"
-        android:layout_marginTop="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="28dp"
         android:layout_weight="1"
-        android:src="@tools:sample/avatars"
+        android:src="@drawable/cat"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView14"
-        android:layout_width="197dp"
-        android:layout_height="77dp"
+        android:layout_width="187dp"
+        android:layout_height="92dp"
         android:layout_marginStart="10dp"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="56dp"
         android:layout_weight="1"
         android:text="Вы познакомились с моей кошкой. Как она вам?"
         android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@+id/imageView4"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -63,8 +65,8 @@
 
     <CheckBox
         android:id="@+id/checkBox4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="240dp"
+        android:layout_height="52dp"
         android:layout_marginTop="50dp"
         android:text="Знакомство прошло успешно"
         app:layout_constraintEnd_toEndOf="parent"
@@ -87,7 +89,6 @@
         android:layout_height="53dp"
         android:ems="10"
         android:inputType="text"
-        android:text="Напишите ваше впечатление"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -101,5 +102,13 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ваше впечатление:"
+        app:layout_constraintBottom_toTopOf="@+id/editTextText"
+        app:layout_constraintStart_toStartOf="@+id/editTextText" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
