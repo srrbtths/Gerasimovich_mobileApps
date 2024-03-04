@@ -17,3 +17,4 @@ rootProject.name = "lesson1"
 include(":app")
 include(":layouttype")
 include(":control_lesson1")
+include(":part_6")
