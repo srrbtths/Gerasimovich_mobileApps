@@ -16,7 +16,7 @@ https://github.com/srrbtths/Gerasimovich_mobilepp_Lesson5
 практика 7:
 [https://github.com/srrbtths/Gerasimovich_mobilepp_Lesson7](https://github.com/srrbtths/Gerasimovich_MobileApp_lesson7)
 
-практика 7:
+практика 8:
 [https://github.com/srrbtths/Gerasimovich_mobilepp_Lesson8](https://github.com/srrbtths/Gerasimovich_MobileApp_lesson8)
 
 MireaProject:
