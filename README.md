@@ -11,13 +11,13 @@ https://github.com/srrbtths/Gerasimovich_mobileApp_Lesson4
 https://github.com/srrbtths/Gerasimovich_mobilepp_Lesson5
 
 практика 6:
-https://github.com/srrbtths/Gerasimovich_mobilepp_Lesson6
+[https://github.com/srrbtths/Gerasimovich_mobilepp_Lesson6](https://github.com/srrbtths/Gerasimovich_MobileApp_lesson6)
 
 практика 7:
-https://github.com/srrbtths/Gerasimovich_mobilepp_Lesson7
+[https://github.com/srrbtths/Gerasimovich_mobilepp_Lesson7](https://github.com/srrbtths/Gerasimovich_MobileApp_lesson7)
 
 практика 7:
-https://github.com/srrbtths/Gerasimovich_mobilepp_Lesson8
+[https://github.com/srrbtths/Gerasimovich_mobilepp_Lesson8](https://github.com/srrbtths/Gerasimovich_MobileApp_lesson8)
 
 MireaProject:
 https://github.com/srrbtths/Geasimovich_MopileApp_MireaProject
